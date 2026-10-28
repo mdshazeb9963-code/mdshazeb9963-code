@@ -1,5 +1,4 @@
-# 💫 About Me:
-# Hi, I'm Mohammed Shazeb 👋<br><br>2nd-year B.Tech student from India, Java Full Stack certified. I like turning real-world problems into working web apps, and I learn fastest by building.<br><br>## 🔨 What I'm building<br>- **LendTrack**: a lending tracker that logs borrowers, due dates and repayment history, sends WhatsApp reminders automatically, and supports Google sign-in with light/dark mode.<br>- **Smart OBD Library / OBD Diagnostic Report**: web tools that help local mechanics decode OBD fault codes and understand what's wrong with a car.<br>- **Goku**: an AI project built in TypeScript.<br><br>## 🧰 Tech<br>Java · JavaScript · TypeScript · HTML/CSS · Three.js · SVG<br><br>## 🌱 Currently<br>Practicing DSA and CS fundamentals, and exploring creative coding with Three.js.<br><br>## 🎯 Goal<br>A software engineering career, with Google as the long-term target.<br><br>## 📫 Reach me<br>[add LinkedIn / email]
+
 
 
 # 💻 Tech Stack:
